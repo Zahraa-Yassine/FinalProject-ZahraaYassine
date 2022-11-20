@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    flex-basis: auto;
+}
+
+html{
+    background-color: rgba(169, 169, 169, 0.918);
+}
+
+.header{
+    background-color: rgb(82, 182, 185);
+    color: white;
+    height: 50px;
+    line-height: 50px;
+
+}
+.header p{
+    float: right;
+}
+
+.body{
+    font-family: 'Cairo Play', cursive;
+   
+}
+
+nav{
+    font-weight: bolder;
+    height: 70px;;
+}
+
+.container1{
+    background-color: rgb(187, 187, 187);
+    padding: 70px;
+    
+}
+
+.container2{
+    background-color: white;
+   
+}
+.btn: hover{
+    background-color:  rgb(98, 177, 98);
+    color: white;
+}
+
+.bt2 hover{
+    color:  rgb(98, 177, 98);
+    background-color: white;
+}
+button hover{
+    color:  rgb(98, 177, 98);
+    background-color:red;
+
+}
+
+.b{
+    font-weight: bolder;
+}
+
+
+.cfooter{
+    margin: 15px;
+    margin-bottom: 2px;
+    padding: 5px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-top: 1px solid rgba(235, 228, 228, 0.945); 
+}
+
+
